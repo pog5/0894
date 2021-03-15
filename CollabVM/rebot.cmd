@@ -1,0 +1,1 @@
+wmic os where primary='true' reboot
