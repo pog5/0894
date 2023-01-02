@@ -5,6 +5,7 @@ https://anonfiles.com
 https://anonshare.com 
 https://temp.sh/ 
 https://www.file.io/ 
+https://upload.ee 
 
 Browsers that bypass CollabNet: 
 https://brave.com 
